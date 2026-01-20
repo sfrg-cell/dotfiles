@@ -13,6 +13,3 @@ cd ~/dotfiles
 
 cp ~/dotfiles/.bashrc ~/
 cp ~/dotfiles/.zshrc ~/
-
-cd ~/dotfiles
-git pull
